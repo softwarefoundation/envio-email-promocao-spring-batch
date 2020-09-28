@@ -1,0 +1,10 @@
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (1, 1);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (1, 3);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (1, 5);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (1, 7);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (1, 9);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (2, 2);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (2, 4);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (2, 6);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (2, 8);
+INSERT INTO tb03_cliente_produto (cliente_id, produto_id) VALUES (2, 10);
